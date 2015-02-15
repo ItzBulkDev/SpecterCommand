@@ -1,0 +1,6 @@
+name: SpecterCommands
+version: 1.0.0
+api: 1.4.0
+main: SpecterCommands\Main
+author: Jaydenb132YT
+description: Adds commands to Specter NPC's
